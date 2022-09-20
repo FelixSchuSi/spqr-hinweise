@@ -1,5 +1,8 @@
-# Hinweise SPQR-Quiz
+# Contents
+{:.no_toc}
 
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
 
 <h2 id="hinweis-hier">
 Hinweis Frage hier
