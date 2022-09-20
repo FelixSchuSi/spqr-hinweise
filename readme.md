@@ -13,12 +13,8 @@ __Inhaltsverzeichnis__
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
-<!--- Der static site generator von Github mag nicht wenn man die URL-Endung der einzelnen Überschriften selbst definieren will. Daher müssen wir hier etwas tricksen --->
-<!--- Diese Überschrift ist nur im Inhaltsverzeichnis sichtbar und muss immer gleich mit der Überschrift zwei Zeilen weiter unten sein --->
 ## Überschrift für den Inhalt der Website hier 
-<!--- Hier den Titel setzen, der in der URL verwendet werden soll --->
 {: .hidden #ueberschrift-fuer-die-url}
-<!--- Diese Überschrift ist nur im Inhalt sichtbar und muss immer gleich mit der Überschrift zwei Zeilen weiter oben sein --->
 <h2>Überschrift für den Inhalt der Website hier</h2> 
 <details>
   <summary>Hinweis anzeigen</summary>
