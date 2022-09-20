@@ -1,5 +1,5 @@
 <style>
-.hidden {display:"none"}
+.hidden {display:none}
 </style>
 
 # Inhaltsverzeichnis
@@ -13,8 +13,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Sehr langer Text damit man scrollen kann 2
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-## ueberschrift-fuer-url
-{: .hidden}
+<h2 class="hidden">ueberschrift-fuer-url</h2>
 ## Überschrift für den Inhalt der Website hier
 <details>
   <summary>Hinweis anzeigen</summary>
