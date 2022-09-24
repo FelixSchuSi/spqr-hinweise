@@ -22,3 +22,30 @@ __Inhaltsverzeichnis__
   Für diese Frage gibt es leider keinen Hinweis.
 </details>
 
+## Quantenbit1
+{: .hidden #Quantenbit1}
+<h2>Quantenbit1</h2> 
+<details>
+  <summary>Hinweis anzeigen</summary> 
+  Umlaute werden aufgelöst (ü = ue ...). 
+  Code besteht aus drei Zahlen.
+</details>
+
+## Quantenbit2
+{: .hidden #Quantenbit2}
+<h2>Quantenbit2</h2> 
+<details>
+  <summary>Hinweis anzeigen</summary> 
+  Umlaute werden aufgelöst (ü = ue ...). 
+  Code besteht aus drei Zahlen.
+</details>
+
+## Quantenbit3
+{: .hidden #Quantenbit3}
+<h2>Quantenbit3</h2> 
+<details>
+  <summary>Hinweis anzeigen</summary> 
+  Umlaute werden aufgelöst (ü = ue ...). 
+  Code besteht aus drei Zahlen.
+</details>
+
