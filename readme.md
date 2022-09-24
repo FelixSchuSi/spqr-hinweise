@@ -13,15 +13,6 @@ __Inhaltsverzeichnis__
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
-## Überschrift für den Inhalt der Website hier 
-{: .hidden #ueberschrift-fuer-die-url}
-<h2>Überschrift für den Inhalt der Website hier</h2> 
-<details>
-  <summary>Hinweis anzeigen</summary>
-  
-  Für diese Frage gibt es leider keinen Hinweis.
-</details>
-
 ## Quantenbit1
 {: .hidden #Quantenbit1}
 <h2>Quantenbit1</h2> 
