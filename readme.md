@@ -40,6 +40,62 @@ __Inhaltsverzeichnis__
   Code besteht aus drei Zahlen.
 </details>
 
+## Pauli-X
+{: .hidden #PauliX}
+<h2>Pauli-X</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Das Vorzeichen ist Teil der Amplitude und muss mit vertauscht werden.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus den richtigen Antworten der vier Fragen. Der Code besteht aus sieben Zahlen. Es gibt also insgesamt sieben richtige Antworten.
+</details>
+
+## Pauli-Z
+{: .hidden #PauliZ}
+<h2>Pauli-Z</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Pauli-Z dreht das Vorzeichen da, wo das Bit |1> ist.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus den richtigen Antworten der vier Fragen. Der Code besteht aus fünf Zahlen. Es gibt also insgesamt fünf richtige Antworten.
+</details>
+
+## Hadamard
+{: .hidden #Hadamard}
+<h2>Hadamard</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus den richtigen Antworten der sieben Fragen. Der Code besteht aus zehn Zahlen. Es gibt also insgesamt zehn richtige Antworten.
+</details>
+
+## CNOT
+{: .hidden #CNOT}
+<h2>CNOT</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus den richtigen Antworten der drei Fragen. Der Code besteht aus vier Zahlen. Es gibt also insgesamt vier richtige Antworten.
+</details>
+
 ## Zwei Quantengatter
 {: .hidden #ZweiQuantengatter}
 <h2>Zwei Quantengatter</h2> 
@@ -54,47 +110,6 @@ __Inhaltsverzeichnis__
 <details>
   <summary>3. Hinweis anzeigen</summary> 
   Relevant ist der Basiszustand 110, denn die Notrufnummer für die Polizei lautet 110.
-</details>
-
-
-## Pauli-X
-{: .hidden #PauliX}
-<h2>Pauli-X</h2> 
-<details>
-  <summary>1. Hinweis anzeigen</summary> 
-  Das Vorzeichen ist Teil der Amplitude und muss mit vertauscht werden.
-</details>
-<details>
-  <summary>2. Hinweis anzeigen</summary> 
-  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
-</details>
-
-## Pauli-Z
-{: .hidden #PauliZ}
-<h2>Pauli-Z</h2> 
-<details>
-  <summary>1. Hinweis anzeigen</summary> 
-  Pauli-Z dreht das Vorzeichen da, wo das Bit |1> ist.
-</details>
-<details>
-  <summary>2. Hinweis anzeigen</summary> 
-  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
-</details>
-
-## Hadamard
-{: .hidden #Hadamard}
-<h2>Hadamard</h2> 
-<details>
-  <summary>Hinweis anzeigen</summary> 
-  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
-</details>
-
-## CNOT
-{: .hidden #CNOT}
-<h2>CNOT</h2> 
-<details>
-  <summary>Hinweis anzeigen</summary> 
-  Teilweise handelt es sich um gleiche Antworten, welche lediglich anders umgeformt wurden.
 </details>
 
 ## Erste Quantenalgorithmen
