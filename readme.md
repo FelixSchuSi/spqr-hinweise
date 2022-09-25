@@ -40,3 +40,25 @@ __Inhaltsverzeichnis__
   Code besteht aus drei Zahlen.
 </details>
 
+## Erste Quantenalgorithmen
+{: .hidden #ErsteQuantenalgorithmen}
+<h2>Erste Quantenalgorithmen</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  In dem Text verstecken sich Umschreibungen für verschiedene Algorithmen.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus der richtigen Reihenfolge der Zahlen, die an den Algorithmen stehen.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+  Bei den Algorithmen handelt es sich um:
+  1: Superposition mit Verschränkung
+  2: Superposition ohne Verschränkung (Algorithmus: Zufallsgenerator)
+  3: Toffoli-Gatter
+  4: Algorithmus zur Teleportation
+  5: Bell-Messung
+  6: Algorithmus von Deutsch-Jozsa
+</details>
+
