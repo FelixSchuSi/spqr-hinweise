@@ -112,6 +112,23 @@ __Inhaltsverzeichnis__
   Relevant ist der Basiszustand 110, denn die Notrufnummer für die Polizei lautet 110.
 </details>
 
+
+## Komplexere Quantenschaltkreise
+{: .hidden #KomplexereQuantenschaltkreise}
+<h2>Komplexere Quantenschaltkreise</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Beispielhafte Berechnug des Codes: <br>
+  Angenommen das Quantenregister befindet sich nach Anwendung des 1. Schaltkreises im Zustand 0,7071|011> + 0,7071|101>. <br>
+  Der 1. Teil des Codes berechnet sich nun aus den 0en und 1en der Basiszustände mit einer Amplitude und deren Amplituden: <br>
+  0,7071 + 0 + 1 + 1 + 0,7071 + 1 + 0 + 1 = 5,4142. <br>
+  Das Komma wird für den Code ignoriert. Die erste Hälfte des Cods würde somit lauten: 54142
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Auch die Vorzeichen der Amplituden sind für die Berechnung des Codes relevant.
+</details>
+
 ## Erste Quantenalgorithmen
 {: .hidden #ErsteQuantenalgorithmen}
 <h2>Erste Quantenalgorithmen</h2> 
