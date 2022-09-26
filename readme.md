@@ -113,9 +113,9 @@ __Inhaltsverzeichnis__
 </details>
 
 
-## Komplexere Quantenschaltkreise
-{: .hidden #KomplexereQuantenschaltkreise}
-<h2>Komplexere Quantenschaltkreise</h2> 
+## Quantenschaltkreise
+{: .hidden #Quantenschaltkreise}
+<h2>Quantenschaltkreise</h2> 
 <details>
   <summary>1. Hinweis anzeigen</summary> 
   Beispielhafte Berechnug des Codes: <br>
