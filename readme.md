@@ -224,7 +224,15 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
 <h2>Suchen mit Quantenalgorithmen 2</h2> 
 <details>
   <summary>1. Hinweis anzeigen</summary> 
-  TODO
+  Relevant sind die Punkte 3.1 und 3.2 der vorherigen Frage.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Für N=4 kann der Amplitudenmittelwert wie folgt berechnet werden: (3 * (1/2) - 1 * (1/2)) / 4 = 1/4.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+  Weitere Informationen könnten auch in "Quantum Computing verstehen" von Homeister, Kapitel 6.2 zu finden sein.
 </details>
 
 ## Suchen mit Quantenalgorithmen 3
@@ -232,7 +240,11 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
 <h2>Suchen mit Quantenalgorithmen 3</h2> 
 <details>
   <summary>1. Hinweis anzeigen</summary> 
-Klassiche Suchalgorithmen auf klassischen Rechnern liegen (bei unsortierten Daten) in der Komplexitätsklasse O(n)
+  Klassiche Suchalgorithmen auf klassischen Rechnern liegen (bei unsortierten Daten) in der Komplexitätsklasse O(n).
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary>
+  Weitere Informationen könnten auch in "Quantum Computing verstehen" von Homeister, Kapitel 6.3 zu finden sein.
 </details>
 
 <div class="empty-space"></div>
