@@ -211,6 +211,30 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
 <img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192502083-3a47d638-8f94-4eb6-8ccb-854be9a61d98.png">
 </details>
 
+## Suchen mit Quantenalgorithmen 1
+{: .hidden #suchen-mit-quantenalgorithmen-1}
+<h2>Suchen mit Quantenalgorithmen 1</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Bei dem Suchalgorithmus handelt es sich um den Suchalgorithmus von Grover.
+</details>
+
+## Suchen mit Quantenalgorithmen 2
+{: .hidden #suchen-mit-quantenalgorithmen-2}
+<h2>Suchen mit Quantenalgorithmen 2</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  TODO
+</details>
+
+## Suchen mit Quantenalgorithmen 3
+{: .hidden #suchen-mit-quantenalgorithmen-3}
+<h2>Suchen mit Quantenalgorithmen 3</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+Klassiche Suchalgorithmen auf klassischen Rechnern liegen (bei unsortierten Daten) in der Komplexitätsklasse O(n)
+</details>
+
 <div class="empty-space"></div>
 
 <a href="/spqr-hinweise/">Zurück nach oben</p>
