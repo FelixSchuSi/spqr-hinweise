@@ -176,6 +176,6 @@ Die Wahrscheinlichkeit lässt sich als Bruch ausdrücken. Der Zähler des Bruchs
   Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
 </details>
 <details>
-  <summary>5. Hinweis anzeigen</summary> 
-  ![image](https://user-images.githubusercontent.com/47390169/192494406-e7314ee2-18e3-444d-a3b5-f86c8ea469a6.png)
+  <summary>5. Hinweis anzeigen</summary>
+  <img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192494406-e7314ee2-18e3-444d-a3b5-f86c8ea469a6.png">
 </details>
