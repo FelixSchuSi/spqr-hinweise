@@ -153,7 +153,7 @@ __Inhaltsverzeichnis__
 
 
 ## Quantenregister: Berechnung der Wahrscheinlichkeit des Eintretens eines Zustandes
-{: .hidden #BerechnungDerWahrscheinlichkeit}
+{: .hidden #quantenregister-berechnung-der-wahrscheinlichkeit}
 <h2>Quantenregister: Berechnung der Wahrscheinlichkeit des Eintretens eines Zustandes</h2> 
 <details>
   <summary>1. Hinweis anzeigen</summary> 
@@ -177,7 +177,7 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
 </details>
 
 ## Quantenregister: Berechnung des neuen Zustandes nach Messung
-{: .hidden #BerechnungDesNeuenZustandes}
+{: .hidden #quantenregister-berechnung-des-neuen-zustandes}
 <h2>Quantenregister: Berechnung des neuen Zustandes nach Messung</h2> 
 <details>
   <summary>1. Hinweis anzeigen</summary> 
@@ -196,6 +196,6 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
   Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 (unten) wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
 </details>
 <details>
-  <summary>6. Hinweis anzeigen</summary>
+  <summary>5. Hinweis anzeigen</summary>
 <img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192502083-3a47d638-8f94-4eb6-8ccb-854be9a61d98.png">
 </details>
