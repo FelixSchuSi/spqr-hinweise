@@ -151,3 +151,31 @@ __Inhaltsverzeichnis__
   6: Algorithmus von Deutsch-Jozsa <br>
 </details>
 
+
+## Quantenregister: Berechnung der Wahrscheinlichkeit des Eintretens eines Zustandes
+{: .hidden #BerechnungDerWahrscheinlichkeit}
+<h2>Quantenregister: Berechnung der Wahrscheinlichkeit des Eintretens eines Zustandes</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Durch Quadrieren der absoluten Amplitude eines Basiszustandes erhaltet ihr die Wahrscheinlichkeit, dass dieser Basiszustand eintritt.
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Durch Addieren der Wahrscheinlichkeiten der relevanten Basiszustände erhaltet ihr das gewünschte Ergebnis.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+  Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+Die Wahrscheinlichkeit lässt sich als Bruch ausdrücken. Der Zähler des Bruchs ist bei A einzutragen, der Nenner bei B. Kürzt den Bruch so weit wie es geht.
+</details>
+<details>
+  <summary>4. Hinweis anzeigen</summary> 
+  Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
+</details>
+<details>
+  <summary>5. Hinweis anzeigen</summary> 
+  ![image](https://user-images.githubusercontent.com/47390169/192494406-e7314ee2-18e3-444d-a3b5-f86c8ea469a6.png)
+</details>
