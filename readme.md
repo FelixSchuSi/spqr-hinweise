@@ -6,6 +6,10 @@
     margin: 0px !important;
     border: 0px solid black !important;
   }
+  .empty-space {
+    width: 100%;
+    height: 1500px;
+  }
 </style>
 
 __Inhaltsverzeichnis__
@@ -199,3 +203,7 @@ Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quan
   <summary>5. Hinweis anzeigen</summary>
 <img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192502083-3a47d638-8f94-4eb6-8ccb-854be9a61d98.png">
 </details>
+
+<div class="empty-space"></div>
+
+<a href="/spqr-hinweise/">Zurück nach oben</p>
