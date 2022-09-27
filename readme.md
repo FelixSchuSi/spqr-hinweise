@@ -155,6 +155,13 @@ __Inhaltsverzeichnis__
   6: Algorithmus von Deutsch-Jozsa <br>
 </details>
 
+## Quantenregister: Erste Schritte
+{: .hidden #quantenregister-erste-schritte}
+<h2>Quantenregister: Erste Schritte</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Das Passwort ergibt sich aus den richtigen Antworten der fünf Fragen. Der Code besteht aus acht Zahlen. Es gibt also insgesamt acht richtige Antworten.
+</details>
 
 ## Quantenregister: Berechnung der Wahrscheinlichkeit des Eintretens eines Zustandes
 {: .hidden #quantenregister-berechnung-der-wahrscheinlichkeit}
