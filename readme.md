@@ -165,17 +165,37 @@ __Inhaltsverzeichnis__
 </details>
 <details>
   <summary>3. Hinweis anzeigen</summary> 
-  Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
-</details>
-<details>
-  <summary>3. Hinweis anzeigen</summary> 
-Die Wahrscheinlichkeit lässt sich als Bruch ausdrücken. Der Zähler des Bruchs ist bei A einzutragen, der Nenner bei B. Kürzt den Bruch so weit wie es geht.
+  Die Wahrscheinlichkeit lässt sich als Bruch ausdrücken. Der Zähler des Bruchs ist bei A einzutragen, der Nenner bei B. Kürzt den Bruch so weit wie es geht.
 </details>
 <details>
   <summary>4. Hinweis anzeigen</summary> 
-  Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
+Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
 </details>
 <details>
   <summary>5. Hinweis anzeigen</summary>
   <img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192494406-e7314ee2-18e3-444d-a3b5-f86c8ea469a6.png">
+</details>
+
+## Quantenregister: Berechnung des neuen Zustandes nach Messung
+{: .hidden #BerechnungDesNeuenZustandes}
+<h2>Quantenregister: Berechnung des neuen Zustandes nach Messung</h2> 
+<details>
+  <summary>1. Hinweis anzeigen</summary> 
+  Es sind nur noch Basiszustände relevant, die mit einer 0 beginnen. Dadurch wird die Zustandsbeschreibung des Quantenregisters deutlich kürzer!
+</details>
+<details>
+  <summary>2. Hinweis anzeigen</summary> 
+  Die Amplituden der Basiszustände müssen neu berechnet werden. Die neu berechneten Amplituden sind in das Zahlenschloss einzugeben.
+</details>
+<details>
+  <summary>3. Hinweis anzeigen</summary> 
+ Die Amplituden gilt es mit der Wurzel der Wahrscheinlichkeit zu dividieren, dass das erste QBit den Wert |0> annimmt. 
+</details>
+<details>
+  <summary>4. Hinweis anzeigen</summary>
+  Hilft euch ein Beispiel aus dem Buch weiter? In Kapitel 8 von Bettina Just: Quantencomputing kompakt auf Seite 70 (unten) wird ein ähnlicher Fall durchgerechnet. Im nächsten Hinweis ist das korrekte Ergebnis mit Rechenweg hinterlegt.
+</details>
+<details>
+  <summary>6. Hinweis anzeigen</summary>
+<img alt="loesung" src="https://user-images.githubusercontent.com/47390169/192502083-3a47d638-8f94-4eb6-8ccb-854be9a61d98.png">
 </details>
